@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my custom website**
 
-- 🌱 I’m currently learning **docker**
+- 🌱 I’m currently learning **php**
 
 - 👯 I’m looking to collaborate in **hackathons**
 
