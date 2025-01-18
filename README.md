@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my custom website**
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **DevOops**
 
 - 👯 I’m looking to collaborate in **hackathons**
 
@@ -21,7 +21,7 @@
 <a href="https://twitter.com/dhruv_kaushik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv_kaushik_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhruvvkaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvvkaushik" height="30" width="40" /></a>
 <a href="https://instagram.com/dhruvvkaushik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvvkaushik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/modernxwarrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="modernxwarrior" height="30" width="40" /></a>
+<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="modernxwarrior" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
